@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\20250407122615_fluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\20250407122615_fluentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\model\\playbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\model\\playbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\repository\\contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\repository\\contractdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\20250317062219_addplaybookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\20250317062219_addplaybookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\20250313073911_addplaybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\20250313073911_addplaybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\20250317063219_addingplaybookitemagainwithplural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\20250317063219_addingplaybookitemagainwithplural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\20250321052126_adduserbasedplaybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\20250321052126_adduserbasedplaybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\contractdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\contractdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\repository\\iplaybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\repository\\iplaybookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\contractmanagementv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\contractmanagementv2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\controllers\\playbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\controllers\\playbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\repository\\playbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\repository\\playbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\model\\playbookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\model\\playbookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|c:\\users\\aagarwal\\source\\repos\\contractmanagementv2\\contractmanagementv2\\migrations\\20250317062953_removeplaybookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34B87C36-CF19-4796-A6BA-A6DDD0318BEC}|ContractManagementV2\\ContractManagementV2.csproj|solutionrelative:contractmanagementv2\\migrations\\20250317062953_removeplaybookitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250407122615_FluentAPI.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250407122615_FluentAPI.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\20250407122615_FluentAPI.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250407122615_FluentAPI.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\20250407122615_FluentAPI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:26:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContractDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Repository\\ContractDbContext.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Repository\\ContractDbContext.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Repository\\ContractDbContext.cs",
+              "RelativeToolTip": "ContractManagementV2\\Repository\\ContractDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:30:04.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playbook.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Model\\Playbook.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Model\\Playbook.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Model\\Playbook.cs",
+              "RelativeToolTip": "ContractManagementV2\\Model\\Playbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:20:39.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\appsettings.json",
+              "RelativeDocumentMoniker": "ContractManagementV2\\appsettings.json",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\appsettings.json",
+              "RelativeToolTip": "ContractManagementV2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T07:35:30.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ContractManagementV2\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADgvyIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:29:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Program.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Program.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Program.cs",
+              "RelativeToolTip": "ContractManagementV2\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:28:50.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250317062219_AddPlaybookItem.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250317062219_AddPlaybookItem.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\20250317062219_AddPlaybookItem.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250317062219_AddPlaybookItem.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\20250317062219_AddPlaybookItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:22:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250313073911_AddPlaybook.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250313073911_AddPlaybook.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\20250313073911_AddPlaybook.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250313073911_AddPlaybook.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\20250313073911_AddPlaybook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:21:20.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250317063219_AddingPlaybookItemAgainWithPlural.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250317063219_AddingPlaybookItemAgainWithPlural.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\20250317063219_AddingPlaybookItemAgainWithPlural.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250317063219_AddingPlaybookItemAgainWithPlural.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\20250317063219_AddingPlaybookItemAgainWithPlural.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:24:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContractDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\ContractDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\ContractDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\ContractDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\ContractDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:23:56.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250321052126_AddUserBasedPlaybook.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250321052126_AddUserBasedPlaybook.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\20250321052126_AddUserBasedPlaybook.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250321052126_AddUserBasedPlaybook.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\20250321052126_AddUserBasedPlaybook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:21:26.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPlaybookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Repository\\IPlaybookRepository.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Repository\\IPlaybookRepository.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Repository\\IPlaybookRepository.cs",
+              "RelativeToolTip": "ContractManagementV2\\Repository\\IPlaybookRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:22:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractManagementV2.csproj",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\ContractManagementV2.csproj",
+              "RelativeDocumentMoniker": "ContractManagementV2\\ContractManagementV2.csproj",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\ContractManagementV2.csproj",
+              "RelativeToolTip": "ContractManagementV2\\ContractManagementV2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T06:31:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContractManagementV2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T05:30:55.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaybookController.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Controllers\\PlaybookController.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Controllers\\PlaybookController.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Controllers\\PlaybookController.cs",
+              "RelativeToolTip": "ContractManagementV2\\Controllers\\PlaybookController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T03:20:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlaybookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Repository\\PlaybookRepository.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Repository\\PlaybookRepository.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Repository\\PlaybookRepository.cs",
+              "RelativeToolTip": "ContractManagementV2\\Repository\\PlaybookRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAgwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:22:39.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlaybookItem.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Model\\PlaybookItem.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Model\\PlaybookItem.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Model\\PlaybookItem.cs",
+              "RelativeToolTip": "ContractManagementV2\\Model\\PlaybookItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:17:00.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250317062953_RemovePlaybookItem.cs",
+              "DocumentMoniker": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250317062953_RemovePlaybookItem.cs",
+              "RelativeDocumentMoniker": "ContractManagementV2\\Migrations\\20250317062953_RemovePlaybookItem.cs",
+              "ToolTip": "C:\\Users\\aagarwal\\source\\repos\\ContractManagementV2\\ContractManagementV2\\Migrations\\20250317062953_RemovePlaybookItem.cs",
+              "RelativeToolTip": "ContractManagementV2\\Migrations\\20250317062953_RemovePlaybookItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T06:29:53.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
